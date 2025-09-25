@@ -11,11 +11,11 @@ I’ve also created a collection of Craft CMS plugins born from real client need
 
  ## Craft CMS Plugin Collection
 
-  I've developed 8 specialized Craft CMS plugins that enhance form functionality, streamline content management, and enable enterprise integrations. These plugins
+  I've developed Craft CMS plugins that enhance form functionality, streamline content management, and enable enterprise integrations. These plugins
    originated from real client requirements and continue to evolve based on project needs and feedback.
 
   ### Formie Extensions
-  *Powerful field types and integrations for [Formie](https://verbb.io/craft-plugins/formie/features)*
+  *Field types and integrations for [Formie](https://verbb.io/craft-plugins/formie/features)*
 
   - **[Formie Paragraph Field](https://github.com/LindemannRock/carft-formie-paragraph-field)**
     Multi-line paragraph field with configurable text sizes, Twig rendering support, and full translation compatibility. Ideal for rich content forms and stylized
