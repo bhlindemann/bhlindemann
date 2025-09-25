@@ -17,35 +17,35 @@ I’ve also created a collection of Craft CMS plugins born from real client need
   ### Formie Extensions
   *Powerful field types and integrations for [Formie](https://verbb.io/craft-plugins/formie/features)*
 
-  - **[Formie Paragraph Field](https://github.com/LindemannRock/formie-paragraph-field)**
+  - **[Formie Paragraph Field](https://github.com/LindemannRock/carft-formie-paragraph-field)**
     Multi-line paragraph field with configurable text sizes, Twig rendering support, and full translation compatibility. Ideal for rich content forms and stylized
    text blocks.
 
-  - **[Formie Rating Field](https://github.com/LindemannRock/formie-rating-field)**
+  - **[Formie Rating Field](https://github.com/LindemannRock/carft-formie-rating-field)**
     Comprehensive rating system featuring star ratings, emoji feedback, and NPS scoring. Includes half-star precision, RTL language support, and extensive
   customization options.
 
-  - **[Formie REST API](https://github.com/LindemannRock/formie-rest-api)**
+  - **[Formie REST API](https://github.com/LindemannRock/carft-formie-rest-api)**
     Full-featured REST and GraphQL API with OAuth 2.0 authentication, intelligent rate limiting, and flexible response formats. Perfect for headless applications
   and third-party integrations.
 
-  - **[Formie SAP Integration](https://github.com/LindemannRock/formie-sap-integration)**
+  - **[Formie SAP Integration](https://github.com/LindemannRock/carft-formie-sap-integration)**
     Direct integration with SAP Cloud Platform using OAuth 2.0 authentication and dynamic schema mapping. Built for enterprise environments with comprehensive
   error handling and logging.
 
   ### Core Development Tools
   *Essential utilities for modern Craft CMS workflows*
 
-  - **[Icon Manager](https://github.com/LindemannRock/icon-manager)**
+  - **[Icon Manager](https://github.com/LindemannRock/carft-icon-manager)**
     Advanced SVG icon management with metadata support, organized folder structures, and custom field types. Streamlines icon workflows across large projects.
 
-  - **[Smart Links](https://github.com/LindemannRock/smart-links)**
+  - **[Smart Links](https://github.com/LindemannRock/carft-smart-links)**
     Intelligent URL management with device-specific redirects, QR code generation, detailed analytics, and multi-environment configuration support.
 
-  - **[Translation Manager](https://github.com/LindemannRock/translation-manager)**
+  - **[Translation Manager](https://github.com/LindemannRock/carft-translation-manager)**
     Comprehensive solution for managing multilingual content with workflow automation and team collaboration features.
 
-  - **[Twig Component Manager](https://github.com/LindemannRock/twig-component-manager)**
+  - **[Component Manager](https://github.com/LindemannRock/carft-component-manager)**
     Component-based template system that promotes reusability and maintainability in Twig templates, reducing code duplication across projects.
 
   ### Development Philosophy
