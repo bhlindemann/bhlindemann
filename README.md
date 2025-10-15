@@ -42,11 +42,21 @@ I’ve also created a collection of Craft CMS plugins born from real client need
   - **[Smart Links](https://github.com/LindemannRock/craft-smart-links)**
     Intelligent URL management with device-specific redirects, QR code generation, detailed analytics, and multi-environment configuration support.
 
+  - **[Slideshow Manager](https://github.com/LindemannRock/craft-slideshow-manager)**
+    Comprehensive slideshow management with Swiper.js integration. Features automatic CDN asset loading, per-entry configuration, responsive breakpoints, and 40+ CSS custom properties for complete styling control.
+
   - **[Translation Manager](https://github.com/LindemannRock/craft-translation-manager)**
     Comprehensive solution for managing multilingual content with workflow automation and team collaboration features.
 
   - **[Component Manager](https://github.com/LindemannRock/craft-component-manager)**
     Component-based template system that promotes reusability and maintainability in Twig templates, reducing code duplication across projects.
+
+  ### Development Infrastructure
+  *Shared libraries for consistent plugin development*
+
+  - **[Logging Library](https://github.com/LindemannRock/craft-logging-library)**
+    Reusable logging infrastructure providing dedicated log files, web-based log viewer, automatic user context, and Monolog integration. Enables
+  consistent logging across all LindemannRock plugins with edge/CDN environment detection.
 
   ### Development Philosophy
   These plugins are actively maintained and enhanced based on real-world usage and client feedback. I plan to submit them to the official Craft Plugin Store once
