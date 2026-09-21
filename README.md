@@ -1,56 +1,68 @@
-## About Me
+## About me
 
-I’m a ~~creative technologist~~ / ~~design technologist~~ — basically, a **designer who codes** ❤️ based in Dubai.  
-Curious about how things work, obsessed with making them better, and not shy about sharing what I learn.
+I’m Bilal Harry Lindemann, a design and research leader and creative technologist based in Dubai. I lead teams, shape product direction and stay close to the work, from research and interaction design to design systems and working software.
 
-Currently building **Wayzi** — an accessibility and token suite for real, inclusive design — and **Smart Links**, a smarter way to manage shareable links, while actively focusing on **Craft CMS plugins and themes**.
+I’m curious about how things work, why they work that way and what could make them better. Building is part of how I learn, test ideas and connect design decisions with what people actually use.
 
-I build Craft CMS plugins from real client needs, then keep evolving them through production feedback. I also work on client projects and mentor designers moving deeper into code.
+I co-founded **Lindemann Rock**, an independent design and technology consultancy. Alongside client work, I build tools and products, develop Craft CMS plugins and mentor designers moving deeper into technology.
 
----
+**Available for leadership roles, consulting and project work with agencies, brands and product teams.**
 
-## Craft CMS Plugin Collection
+[Portfolio](https://lindemann.design/) · [About](https://lindemann.design/about/) · [Get in touch](mailto:hello@lindemann.design)
 
-I develop Craft CMS plugins focused on forms, content workflows, search, campaign tooling, and enterprise integrations.
+## What I’m working on
 
-### Formie Extensions
-- **[Formie Booking Slot Field](https://github.com/LindemannRock/craft-formie-booking-slot-field)** — Date/time slot selection with capacity tracking.
-- **[Formie Paragraph Field](https://github.com/LindemannRock/craft-formie-paragraph-field)** — Multi-line paragraph field for rich form content.
-- **[Formie Rating Field](https://github.com/LindemannRock/craft-formie-rating-field)** — Star, emoji, and numeric rating fields.
-- **[Formie REST API](https://github.com/LindemannRock/craft-formie-rest-api)** — REST + GraphQL access to Formie forms/submissions.
-- **[Formie SAP Integration](https://github.com/LindemannRock/craft-formie-sap-integration)** — SAP Cloud integration for submission sync.
-- **[Formie SMS](https://github.com/LindemannRock/craft-formie-sms)** — SMS notifications for Formie via SMS Manager.
+- **[Proof-Carrying Workflows](https://lindemann.design/work/proof-carrying-workflows/)**: workflows for reviewing AI-assisted development through explicit authority, evidence and verification.
+- **[Wayzi](https://lindemann.design/work/wayzi/)**: accessibility tools in development, starting with page navigation that gives people more control over how they move through content.
+- **[Token Framework](https://lindemann.design/work/token-framework/)**: a developing foundation for carrying design intent across brands, themes and platforms through semantic tokens.
+- **Craft CMS tools**: plugins and shared infrastructure built around recurring client needs, then refined through implementation and feedback.
 
-### Content & Developer Experience
-- **[Component Manager](https://github.com/LindemannRock/craft-component-manager)** — Reusable component system with props/slots.
-- **[Code Highlighter](https://github.com/LindemannRock/craft-code-highlighter)** — Prism.js syntax highlighting in Craft.
-- **[Docs Manager](https://github.com/LindemannRock/craft-docs-manager)** — Sync markdown docs into Craft CMS.
-- **[Icon Manager](https://github.com/LindemannRock/craft-icon-manager)** — SVG/icon font management with metadata.
-- **[Slideshow Manager](https://github.com/LindemannRock/craft-slideshow-manager)** — Swiper-powered slideshow field with deep config.
-- **[Tailwind Manager](https://github.com/LindemannRock/craft-tailwind-manager)** — Dynamic Tailwind v4+ generation and optimization.
-- **[Translation Manager](https://github.com/LindemannRock/craft-translation-manager)** — Translation workflow tooling with Formie support.
+## Craft CMS tools
 
-### Search, Routing & Performance
-- **[Search Manager](https://github.com/LindemannRock/craft-search-manager)** — Multi-backend search (Algolia, Meilisearch, Redis, Typesense, etc.).
-- **[Redirect Manager](https://github.com/LindemannRock/craft-redirect-manager)** — Redirects + 404 handling.
-- **[Cache Manager](https://github.com/LindemannRock/craft-cache-manager)** — Cache warming with priorities and rate limiting.
+My work covers forms, content workflows, search, links, messaging and integrations. Shared infrastructure keeps common behaviour consistent across the collection.
 
-### Links, Messaging & Campaigns
-- **[Shortlink Manager](https://github.com/LindemannRock/craft-shortlink-manager)** — Short links, QR codes, analytics.
-- **[Smartlink Manager](https://github.com/LindemannRock/craft-smartlink-manager)** — Device detection + app store routing.
-- **[SMS Manager](https://github.com/LindemannRock/craft-sms-manager)** — Multi-provider SMS gateway management.
-- **[Campaign Manager](https://github.com/LindemannRock/craft-campaign-manager)** — SMS/email/WhatsApp campaign invitations.
-- **[Survey Campaigns](https://github.com/LindemannRock/craft-survey-campaigns)** — Automotive survey campaign workflows.
-- **[Report Manager](https://github.com/LindemannRock/craft-report-manager)** — Reporting and analytics with extensible data sources.
+Some tools are available now; others are in development or pre-release. Each repository documents its current status, requirements and licence.
 
-### Shared Foundations
-- **[Plugin Base](https://github.com/LindemannRock/craft-plugin-base)** — Shared utilities/building blocks across plugins.
-- **[Logging Library](https://github.com/LindemannRock/craft-logging-library)** — Reusable structured logging infrastructure.
+### Formie extensions
 
-### Technical Foundation
-![Craft CMS](https://img.shields.io/badge/Craft%20CMS-5.x-FF6B35?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square)
-![Twig](https://img.shields.io/badge/Twig-Templates-339933?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-4285F4?style=flat-square)
+- **[Formie Booking Slot Field](https://github.com/LindemannRock/craft-formie-booking-slot-field)**: date and time slot selection with capacity management.
+- **[Formie Paragraph Field](https://github.com/LindemannRock/craft-formie-paragraph-field)**: display-only introductions, instructions and notices within forms.
+- **[Formie Rating Field](https://github.com/LindemannRock/craft-formie-rating-field)**: star, emoji and NPS ratings with response statistics.
+- **[Formie REST API](https://github.com/LindemannRock/craft-formie-rest-api)**: authenticated REST access to forms and submissions, with scoped API keys and rate limiting.
+- **[Formie SAP Integration](https://github.com/LindemannRock/craft-formie-sap-integration)**: send form submissions to SAP Cloud Platform using OAuth 2.0.
+- **[Formie SMS](https://github.com/LindemannRock/craft-formie-sms)**: send form notifications through SMS Manager.
 
-Licensing varies per plugin (commercial and open-source), with details provided in each repository/product page.
+### Content and developer experience
+
+- **[Component Manager](https://github.com/LindemannRock/craft-component-manager)**: reusable Twig components with props and slots.
+- **[Code Highlighter](https://github.com/LindemannRock/craft-code-highlighter)**: Prism.js syntax highlighting for code in Craft content.
+- **[Docs Manager](https://github.com/LindemannRock/craft-docs-manager)**: bring Markdown documentation into the Craft control panel.
+- **[Icon Manager](https://github.com/LindemannRock/craft-icon-manager)**: manage SVG and icon-font collections with searchable metadata.
+- **[Slideshow Manager](https://github.com/LindemannRock/craft-slideshow-manager)**: configurable slideshow fields powered by Swiper.
+- **[Translation Manager](https://github.com/LindemannRock/craft-translation-manager)**: manage site strings and Formie and Freeform translations through a shared workflow.
+
+### Search and routing
+
+- **[Search Manager](https://github.com/LindemannRock/craft-search-manager)**: search across multiple backends, including Algolia, Meilisearch, Typesense, Redis and database engines.
+- **[Redirect Manager](https://github.com/LindemannRock/craft-redirect-manager)**: manage redirects and track requests that return 404s.
+
+### Links, messaging and campaigns
+
+- **[Shortlink Manager](https://github.com/LindemannRock/craft-shortlink-manager)**: short links, QR codes and link analytics.
+- **[Smartlink Manager](https://github.com/LindemannRock/craft-smartlink-manager)**: route visitors to destinations based on their device, with app-store links and fallbacks.
+- **[SMS Manager](https://github.com/LindemannRock/craft-sms-manager)**: manage SMS delivery through multiple providers.
+- **[Campaign Manager](https://github.com/LindemannRock/craft-campaign-manager)**: survey campaigns with SMS and email invitations and response tracking.
+- **[Survey Campaigns](https://github.com/LindemannRock/craft-survey-campaigns)**: customer survey campaigns with invitation scheduling and response tracking.
+- **[Report Manager](https://github.com/LindemannRock/craft-report-manager)**: saved reports, content inventories and exports with extensible data sources.
+
+### Shared foundations
+
+- **[Plugin Base](https://github.com/LindemannRock/craft-plugin-base)**: a shared module providing layouts, settings, date handling, exports, database helpers and other common infrastructure.
+- **[Logging Library](https://github.com/LindemannRock/craft-logging-library)**: structured logging shared across plugins, with tools for inspecting and managing logs.
+- **[Craft Starter](https://github.com/LindemannRock/craft-starter)**: an interactive starting point for Craft projects, including local development, frontend tooling and multisite configuration.
+
+## Tools and technologies
+
+PHP · Twig · JavaScript · TypeScript · Craft CMS · Astro · CSS · design tokens · accessible interfaces
+
+I work across design, research and engineering. The tools change; the aim stays the same: understand the problem, make thoughtful decisions and build something people can use.
